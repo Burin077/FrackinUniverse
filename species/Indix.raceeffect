@@ -42,6 +42,18 @@
 		{
 			"stat": "cosmicResistance",
 			"amount": 0.2
+		},
+        {
+			"stat": "machinepistolMastery",
+			"amount": 0.1
+		},
+        {
+			"stat": "daggerMastery",
+			"amount": 0.1
+		},
+        {
+			"stat": "assaultriflemastery",
+			"amount": 0.1
 		}
 	], // Indix don't eat and therefore can't eat anything
 	"diet" : [ {}, { "ORGANIC" : true, "INORGANIC" : true, "ROBOT_PLANT" : true } ],
@@ -51,35 +63,7 @@
 	"envEffects": [],
 	"special": [
 		"indixregen","indixfoodhandler"
-	],
-	"weaponEffects": [
-		{
-			"weapons": [
-				"machinepistol"
-			],
-			"stats": [{
-					"stat": "critDamage",
-					"amount": 0.25
-				},
-				{
-					"stat": "powerMultiplier",
-					"effectiveMultiplier": 1.1
-				}
-			]
-		},
-		{
-			"weapons": [
-				"dagger","assaultrifle","whipblade"
-			],
-			"stats": [{
-					"stat": "powerMultiplier",
-					"effectiveMultiplier": 1.1
-				},
-				{
-					"stat": "critChance",
-					"amount": 2
-				}
-			]
-		}
 	]
+
+
 }
