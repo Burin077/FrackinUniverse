@@ -4,7 +4,11 @@
 		{ "stat" : "fireResistance", "amount" : -0.1 },
 		{ "stat" : "radioactiveResistance", "amount" : -0.1 },
 		{ "stat" : "shadowResistance", "amount" : 0.2 },
-		{ "stat" : "cosmicResistance", "amount" : 0.2 }
+		{ "stat" : "cosmicResistance", "amount" : 0.2 },
+		{ "stat" : "pistol", "amount" : 0.1 },
+		{ "stat" : "machinepistol", "amount" : 0.1 },
+		{ "stat" : "assaultrifle", "amount" : 0.1 },
+		{ "stat" : "grenadelauncher", "grenadelauncher" : 0.1 }
 	],
 	"diet" : "omnivore",
 	"controlModifiers" : {
@@ -18,32 +22,7 @@
 				{ "stat" : "maxEnergy", "effectiveMultiplier" : 1.25 }
 			]
 		}
-	],
-	"weaponEffects" : [
-		{
-			"weapons" : [ "pistol" ],
-			"stats" : [
-				{ "stat" : "powerMultiplier", "effectiveMultiplier" : 1.1 }
-			]
-		},
-		{
-			"weapons" : [ "machinepistol" ],
-			"stats" : [
-				{ "stat" : "protection", "effectiveMultiplier" : 1.15 }
-			]
-		},
-		{
-			"weapons" : [ "assaultrifle" ],
-			"stats" : [
-				{ "stat" : "powerMultiplier", "effectiveMultiplier" : 1.12 }
-			]
-		},
-		{
-			"weapons" : [ "grenadelauncher" ],
-			"stats" : [
-				{ "stat" : "powerMultiplier", "effectiveMultiplier" : 1.15 },
-				{ "stat" : "protection", "effectiveMultiplier" : 1.18 }
-			]
-		}
 	]
+	
+	
 }
