@@ -4,7 +4,11 @@
 		{ "stat": "maxEnergy", "effectiveMultiplier": 0.95 },
 		{ "stat": "powerMultiplier", "effectiveMultiplier": 1.05 },
 		{ "stat": "poisonResistance", "amount": -0.4 },
-		{ "stat": "shadowResistance", "amount": 0.4 }
+		{ "stat": "shadowResistance", "amount": 0.4 },
+		{ "stat": "fistMastery", "amount": 0.20 },
+		{ "stat": "daggerMastery", "amount": 0.20 },
+		{ "stat": "pistolMastery", "amount": 0.10 },
+		{ "stat": "machinePistolMastery", "amount": 0.10 }
 	],
 	"diet" : "carnivore",
 	"controlModifiers": {
@@ -19,44 +23,6 @@
 			]
 		}
 	],
-	"weaponEffects": [{
-			"weapons": [ "fist" ],
-			"stats": [
-				{ "stat": "powerMultiplier", "effectiveMultiplier": 1.12 }
-			]
-		},
-		{
-			"weapons": [ "dagger" ],
-			"stats": [
-				{ "stat": "critChance", "amount": 1 }
-			]
-		},
-		{
-			"combos": [
-				[ "fist", "fist" ],
-				[ "dagger", "dagger" ]
-			],
-			"stats": [
-				{ "stat": "powerMultiplier", "effectiveMultiplier": 1.03 },
-				{ "stat": "critDamage", "amount": 0.01 }
-			]
-		},
-		{
-			"combos": [
-				[ "fist", "fist" ]
-			],
-			"controlModifiers": {
-				"speedModifier": 1.08,
-				"airJumpModifier": 1.05
-			}
-		},
-		{
-			"weapons": [ "pistol", "machinepistol" ],
-			"stats": [
-				{ "stat": "critDamage", "amount": 0.2 },
-				{ "stat": "critChance", "amount": 1 }
-			]
-		}
-	],
+	
 	"tech" : [ "huntersclaw" ]
 }
