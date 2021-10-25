@@ -14,10 +14,10 @@
   ^green;Lush, Forest, Primeval^reset; biomes: Health x^green;1.2^reset;, Energy x^green;1.25^reset;
 
 ^orange;Weapons^reset;:
-  Pistol: Damage x^green;1.1^reset;
-  Machine Pistol: Defense x^green;1.15^reset;
-  Assault Rifle: Damage x^green;1.12^reset;
-  Grenade Launcher: Damage x^green;1.15^reset;, Defense x^green;1.18^reset;
+  Pistol Mastery:  ^green;10^reset;%
+  Machine Pistol:  ^green;10^reset;%
+  Assault Rifle:  ^green;10^reset;%
+  Grenade Launcher:  ^green;10^reset;%
 
 ^red;Weaknesses^reset;:
   Resists: -^red;10^reset;% Fire, Radiation"
