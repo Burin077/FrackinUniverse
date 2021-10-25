@@ -15,17 +15,15 @@
   +^green;25^reset;% Jump, +^green;6^reset;% Speed
   ^green;Resist^reset;: +^green;40^reset;% Shadow
   Tech: ^green;Hunter's Claw^reset;
-  Damage x^green;1.05^reset;
 
 ^orange;Environment^reset;:
   Jungle, Rainforest, Alien, Proto, And Primeval biomes: Defense x^green;1.05^reset; and Energy x^green;1.1^reset;
 
 ^orange;Weapons^reset;:
-  Fist: Damage x^green;1.12^reset;
-  Dagger: +^green;1^reset;% Crit Chance
-  x2 Fist: Damage x^green;1.03^reset;, +^green;1^reset;% Crit Damage, ^green;5^reset;% Jump and ^green;8^reset;% Speed
-  x2 Dagger: Damage x^green;1.03^reset;, +^green;1^reset;% Crit Damage
-  Pistol/Machine Pistol: +^green;20^reset;% Crit Damage, +^green;1^reset;% Crit Chance
+  Fist Mastery: ^green;20^reset;%
+  Dagger Mastery: ^green;20^reset;%
+  Pistol Mastery: ^green;10^reset;%
+  Machine Pistol Mastery: ^green;10^reset;%
 
 ^red;Weaknesses^reset;:
   ^red;Resist^reset;: -^red;40^reset;% Poison
