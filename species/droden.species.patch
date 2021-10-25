@@ -16,8 +16,9 @@
   ^cyan;Immune^reset;: Poison, Breath
 
 ^orange;Weapons^reset;:
-  Broadsword/Shortsword: +^green;2^reset;% Crit Chance
-  Assault Rifle: +^green;25^reset;% Crit Damage
+  Broadsword Mastery: ^green;10^reset;%
+  Shortsword: ^green;10^reset;%
+  Assault Rifle Mastery: ^green;20^reset;%
 
 ^red;Weaknesses^reset;:
   ^red;Resist^reset;: -^red;25^reset;% Physical, -^red;40^reset;%Electric"
