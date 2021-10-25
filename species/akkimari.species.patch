@@ -15,9 +15,10 @@
   ^green;Lush, Forest, Desert and Bog^reset; biomes: Health & Defense x^green;1.15^reset;
 
 ^orange;Weapons^reset;:
-  Broadsword: Damage & Defense x^green;1.1^reset;
-  Bow/Crossbow: +^green;2^reset;% Crit Chance, Damage x^green;1.15^reset;
-  Spear/Shortspear: +^green;2^reset;% Crit Chance, +^green;25^reset;% Knockback Resistance
+  Broadsword: ^green;15^reset;%
+  Bow: ^green;10^reset;%
+  Spear: ^green;10^reset;%
+  Shortspear: ^green;10^reset;%
 
 ^red;Weaknesses^reset;:
   ^red;Resist^reset;: -^red;10^reset;% Shadow, -^red;20^reset;% Radiation"
