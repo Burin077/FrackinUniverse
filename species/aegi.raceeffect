@@ -5,10 +5,10 @@
 		{ "stat" : "radioactiveResistance", "amount" : -0.1 },
 		{ "stat" : "shadowResistance", "amount" : 0.2 },
 		{ "stat" : "cosmicResistance", "amount" : 0.2 },
-		{ "stat" : "pistol", "amount" : 0.1 },
-		{ "stat" : "machinepistol", "amount" : 0.1 },
-		{ "stat" : "assaultrifle", "amount" : 0.1 },
-		{ "stat" : "grenadelauncher", "grenadelauncher" : 0.1 }
+		{ "stat" : "pistolMastery", "amount" : 0.1 },
+		{ "stat" : "machinepistolMastery", "amount" : 0.1 },
+		{ "stat" : "assaultrifleMastery", "amount" : 0.1 },
+		{ "stat" : "grenadelauncherMastery", "grenadelauncher" : 0.1 }
 	],
 	"diet" : "omnivore",
 	"controlModifiers" : {
