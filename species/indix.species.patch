@@ -16,8 +16,9 @@
   ^green;Resist^reset;: +^green;20^reset;% Ice, Cosmic and Shadow
 
 ^orange;Weapons^reset;:
-  Assault Rifle/Dagger/Whipblade: Damage x^green;1.1^reset;, +^green;2^reset;% Crit Chance
-  Machine Pistol: Damage x^green;1.1^reset;, +^green25^reset;% Crit Damage
+  Assault Rifle Mastery:  ^green;10^reset;%
+  Dagger Mastery:   ^green;10^reset;%
+  Machine Pistol Mastery:   ^green;10^reset;%
 
 ^red;Weaknesses^reset;:
   ^red;Resist^reset;: -^red;40^reset;% Electric, -^red;25^reset;% Physical, -^red;20^reset;% Fire & Radiation"
