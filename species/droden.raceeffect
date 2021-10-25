@@ -8,7 +8,10 @@
 		{ "stat": "poisonResistance", "amount": 0.4 },
 		{ "stat": "radioactiveResistance", "amount": 0.4 },
 		{ "stat": "breathProtection", "amount": 1 },
-		{ "stat": "poisonStatusImmunity", "amount": 1 }
+		{ "stat": "poisonStatusImmunity", "amount": 1 },
+		{ "stat": "shortswordMastery", "amount": 0.10 },
+		{ "stat": "broadswordMastery", "amount": 0.10 },
+		{ "stat": "assaultrifleMastery", "amount": 0.20 }
 	],
 	"diet" : "robot",
 	"controlModifiers": {
