@@ -19,9 +19,10 @@
   ^green;Cold^reset; biomes: -^red;50^reset;% E. Regen
 
 ^orange;Weapons^reset;:
-  1 handed combo strikes increase damage (^green;Health/50^reset;)
-  Dagger/Spear: Damage x^green;1.05^reset;, +^green;2^reset;% Crit
-  Energy Weapons: Damage x^green;1.15^reset;
+  1-Handed Combo Strikes Increase Damage (^green;Health/50^reset;)
+  Dagger/Spear Mastery: ^green;5^reset;%
+  Spear Mastery: ^green;5^reset;%
+  Energy Weapons:  ^green;1.15^reset;%
 
 ^red;Weaknesses^reset;:
   ^red;Resist^reset;: -^red;40^reset;% Ice"
