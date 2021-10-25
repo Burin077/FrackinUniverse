@@ -5,7 +5,9 @@
 		{ "stat" : "snowslowImmunity", "amount" : 1 },
 		{ "stat" : "iceslipImmunity", "amount" : 1 },
 		{ "stat" : "fallDamageMultiplier", "effectiveMultiplier" : 0.35 },
-		{ "stat" : "iceStatusImmunity", "amount" : 1 }
+		{ "stat" : "spearMastery", "amount" : 0.15 },
+        	{ "stat" : "energyMastery", "amount" : 0.10 },
+        	{ "stat" : "grenadelauncherMastery", "amount" : 0.20 }
 	],
 	"diet" : "omnivore",
 	"controlModifiers" : {
@@ -33,25 +35,7 @@
 			}
 		}
 	],
-	"weaponEffects" : [
-		{
-			"weapons" : [ "spear" ],
-			"stats" : [
-				{ "stat" : "critChance", "amount" : 2 }]
-		},
-		{
-			"weapons" : [ "energy" ],
-			"stats" : [
-				{ "stat" : "powerMultiplier", "effectiveMultiplier" : 1.12 }
-			]
-		},
-		{
-			"weapons" : [ "grenadelauncher" ],
-			"stats" : [
-				{ "stat" : "critDamage", "amount" : 0.2 }
-			]
-		}
-	],
+
 	"aerialEffect" : {
 		//"fallStats" : {
 		//	"controlParameters" : {
