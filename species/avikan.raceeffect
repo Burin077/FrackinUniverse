@@ -11,7 +11,10 @@
 		{ "stat" : "tarImmunity", "amount" : 1 },
 		{ "stat" : "fireStatusImmunity", "amount" : 1 },
 		{ "stat" : "sandstormImmunity", "amount" : 1 },
-		{ "stat" : "quicksandImmunity", "amount" : 1 }
+		{ "stat" : "quicksandImmunity", "amount" : 1 },
+		{ "stat" : "daggerMastery", "amount" : 0.05 },
+		{ "stat" : "spearMastery", "amount" : 0.05 },
+		{ "stat" : "energyMastery", "amount" : 0.15 }
 	],
 	"diet" : "omnivore",
 	"envEffects" : [
@@ -35,21 +38,6 @@
 			"biomes" : [ "snow", "arctic", "arcticdark", "icemoon", "icewaste", "icewastedark" ],
 			"stats" : [
 				{ "stat" : "energyRegenPercentageRate", "baseMultiplier" : 0.5 }
-			]
-		}
-	],
-	"weaponEffects" : [
-		{
-			"weapons" : [ "dagger", "spear" ],
-			"stats" : [
-				{ "stat" : "powerMultiplier", "effectiveMultiplier" : 1.05 },
-				{ "stat" : "critChance", "amount" : 2 }
-			]
-		},
-		{
-			"weapons" : [ "energy" ],
-			"stats" : [
-				{ "stat" : "powerMultiplier", "effectiveMultiplier" : 1.15 }
 			]
 		}
 	],
